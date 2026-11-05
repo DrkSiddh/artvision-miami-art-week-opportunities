@@ -1,0 +1,48 @@
+{
+  "database_name": "ArtVision Miami Art Week Opportunities Database",
+  "last_updated": "2026-11-04",
+  "description": "Searchable database of free (or justified low-fee prestigious) opportunities to exhibit digital or physical art during Miami Art Week, with emphasis on Web3/crypto related organizations or curators. Includes entry to events. For ArtVision podcast. Search by keyword e.g. MIAMI.",
+  "opportunities": [
+    {
+      "id": "onelove-frontera-2026",
+      "title": "FRONTERA Open Call by One Love Art DAO",
+      "keywords": ["MIAMI", "Miami Art Week", "digital", "web3", "DAO", "NFT", "free", "Hotel Yve"],
+      "organization": "One Love Art DAO (Non-profit 501c3, Digital Art Gallery)",
+      "event_dates": "During Miami Art Week (Nov 30 - Dec 6, 2026), exhibited at Hotel Yve",
+      "deadline": "2026-11-15",
+      "fee": "None (completely free)",
+      "fee_reason": "N/A - free",
+      "what_looking_for": "Works that challenge understanding and shift perspectives. Digital or physical, minted or unminted on any chain/marketplace, global artists welcome.",
+      "exhibited": true,
+      "includes_entry": true,
+      "url": "https://forms.gle/DjERA61QPdZEf19SA",
+      "search_or_google": "One Love Art DAO FRONTERA open call OR forms.gle/DjERA61QPdZEf19SA",
+      "application_questions": "Google Form (details not fully scraped, but visual-focused; artists submit work, likely name, contact, statement, portfolio link). Over 100 responses as of Nov 3.",
+      "receipts_required": "Artwork visuals/link (they collect from selected), bio or statement implied, portfolio or marketplace link encouraged.",
+      "notes": "Confirmed free, international OK, can be exhibited elsewhere. Gallery at Hotel Yve Downtown Miami. Encouraging community opportunity.",
+      "status": "Open as of 2026-11-04",
+      "source": "X posts from @OneLoveArtDAO"
+    },
+    {
+      "id": "render-miami-after-dark-2026",
+      "title": "Miami After Dark Projection Exhibition - Render Network",
+      "keywords": ["MIAMI", "Miami Art Week", "digital", "projection", "web3", "crypto", "Render Network", "free", "Miami Beach"],
+      "organization": "Render Network / Render Foundation (decentralized GPU rendering, crypto/tech)",
+      "event_dates": "December 2, 2026 - 50-foot projection at The National Hotel, Miami Beach",
+      "deadline": "2026-11-15",
+      "fee": "None",
+      "fee_reason": "N/A - free; rendering credits provided",
+      "what_looking_for": "Original digital works themed Miami After Dark, up to 2 minutes, must be rendered on Render Network (credits covered for selected).",
+      "exhibited": true,
+      "includes_entry": true,
+      "url": "https://renderfoundation.typeform.com/to/NGgLRjhY",
+      "search_or_google": "Render Network Miami After Dark open call OR renderfoundation.typeform.com",
+      "application_questions": "9 questions in Typeform (starts with full name; includes contact, work details, portfolio/resume/cover letter style, about 7 minutes).",
+      "receipts_required": "Digital artwork file or link (rendered on network), portfolio pieces or links, biography or statement, resume/cover letter possible.",
+      "notes": "High visibility large-scale projection during Art Week. Some sources note US artists only - verify. No fee, technical support via credits. Prestigious tech-art intersection.",
+      "status": "Open as of 2026-11-04 (conflicting earlier closed notes, but primary sources Nov 15)",
+      "source": "ArtDeadline, Typeform, Render Network posts"
+    }
+  ],
+  "usage": "Search by keyword (e.g. MIAMI) and filter by status open and deadline not passed. Update daily by adding new entries and marking expired."
+}
