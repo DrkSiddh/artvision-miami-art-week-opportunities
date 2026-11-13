@@ -1,0 +1,16 @@
+# ArtVision Podcast Special Segment Script: Miami Art Week Free Exhibition Opportunities
+
+**Date: November 12, 2026**
+**Voice: Encouraging, uplifting friend-over-coffee at the cafe. Authoritative but warm, never punching down.**
+
+Hey friend, pull up a chair. Miami Art Week is right around the corner — November 30 through December 6 — and the whole city is buzzing with art, from the big fairs down to the hidden galleries and digital projections. If you’re an artist looking to get your work out there without draining your wallet, I’ve got some real opportunities that are still open, especially ones leaning into Web3, crypto, digital, and community-driven spaces.
+
+First up, and this one is hot because the deadline is Saturday, November 15th: One Love Art DAO’s FRONTERA open call. They’re a nonprofit 501(c)(3) global art collective with a digital gallery right inside the YVE Hotel in Downtown Miami. They’re looking for works that challenge our understanding and shift perspectives — digital, physical, NFT, whatever fits the theme. Selected artists get exhibited in their gallery during the week, plus consideration for partner opportunities, and there’s even an AR Art Walk with Illust Space on December 3rd starting from the hotel to Bayfront Park. No cost to apply or exhibit — it’s community-powered. You get full entry into the event vibe, the show, the connections. Google “One Love Art DAO FRONTERA Miami Art Week” or hit their X @OneLoveArtDAO. The form is https://forms.gle/DjERA61QPdZEf19SA. From what artists are sharing, it’s straightforward — expect contact info, a short bio or statement about how your work fits FRONTERA, and links or uploads of 1-3 portfolio pieces. Quick, encouraging, and open to global artists including collabs and interactive stuff.
+
+Next, a super low-lift one happening right now in collaboration with them: BrunchByFidel is exhibiting 25 artists at the same Hotel YVE during Art Week. To be considered, just follow the profiles (@OneLoveArtDAO, @BrunchByFidel, and the sponsors), share ONE piece of your art on X, and tag a friend. That’s it. Free, social, and you get the exhibition spot if selected. Check Fidel’s posts on X for the exact tags. It’s the kind of accessible door that gets your work in front of people during the biggest week of the year.
+
+One more for the digital/Web3 heads, even though the deadline just closed on October 30: The Render Foundation’s open call for a 50-foot large-scale projection on Miami Beach on December 2nd. Theme Miami After Dark, 10-15 artists selected, works rendered on the Render Network with credits covering the costs, no application fee. It was a pure free digital showcase tied to Art Week crowds. Keep an eye on @rendernetwork for next year — this is the model of what free, high-visibility crypto-adjacent exhibition looks like.
+
+These are the ones with clear deadlines, no (or minimal) cost, and actual exhibition plus entry into the energy of the week. Search our database with MIAMI + keyword + URL to find more as we add them daily. Apply today if it fits — your work deserves to be seen.
+
+That’s the coffee-table download. Go make something beautiful and get it out there.
