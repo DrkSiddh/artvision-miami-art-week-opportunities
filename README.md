@@ -1,14 +1,18 @@
-# ArtVision Miami Art Week Opportunities
+# ArtVision Miami Art Week Opportunities Database
 
-Running database and narrative scripts for free (or high-value) exhibition opportunities during Miami Art Week, focused on digital/physical art, especially Web3/crypto-friendly.
+Running, searchable database of exhibition opportunities (especially free or low-fee, digital/physical, Web3-friendly) during Miami Art Week.
 
-For the ArtVision podcast special segment. Voice is encouraging and uplifting.
+## How to Use
 
-## Files
-- `artvision_miami_art_week_script.md`: Conversational podcast script (friend over coffee).
-- `artvision_opportunities_database.json`: Structured JSON for search/database.
-- `artvision_opportunities_searchable.md`: Human-readable searchable entries.
+- **Narrative script**: `narrative_script.md` — ready-to-read podcast segment in casual, encouraging coffee-chat voice.
+- **Database**: `opportunities_database.json` — structured entries. Search by keyword (e.g. "MIAMI", "Web3", "free", deadline, URL).
 
-Search by keywords like "MIAMI" + opportunity name. Update daily: remove expired deadlines.
+## Daily Workflow Idea
 
-Last updated: November 3, 2026.
+Each day, scan for 1–3 new open opportunities with clear deadlines, add them to the JSON (with status, fee, materials count, etc.), and update the narrative as needed.
+
+## Voice Guidelines
+
+Encouraging, uplifting, never punching down. Clear deadlines, what they want, event dates, URLs, Google search terms.
+
+Last updated: November 18, 2026.
